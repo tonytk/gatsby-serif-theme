@@ -1,7 +1,7 @@
 [
     {
-        "name": "Services",
-        "url": "/services/",
+        "name": "Features",
+        "url": "/features/",
         "weight": 2
     },
     {
